@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjql9ozt1iA3RHhPdzpCdQR0kzG3pJYVc/mFsEi+u9G6Il1J7EgT40lvACllFtbNn/f/d1jePUjckUkxtXYtOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\WebJenkinsDemo\\WebJenkinsDemo\\WebJenkinsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
